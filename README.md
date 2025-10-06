@@ -1,2 +1,2 @@
-# cypress-automation0framework
+# cypress-automation-framework
 This contains all the cypress automation training of Jun
